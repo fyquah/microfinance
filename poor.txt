@@ -1,0 +1,11 @@
+You have exceeded your average monthly expenditure for item FOOD. You might want to have a look at some of our financial advices below to improve your expenditure habbits.
+
+
+<ul>
+    <li><a href="http://www.netmums.com/lifestyle/money-and-debt/making-ends-meet/how-to-cut-the-cost-of-your-food-bills">Improving Food Expenditure</a></li>
+</ul>
+
+Also, we have recently set up a local microlending systems. We believe a micro-loan of $50 will help you getting out of debt. Our P2P-microlending system has only a interest rate of 0.1%, brought to you specially by your local neighbourhood friends.
+
+Reply "Yes" to accept this microloan offer.
+

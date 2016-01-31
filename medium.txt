@@ -1,0 +1,13 @@
+According to your recent financial records, you are on track to a stable financial situation - kudos to you for that!
+
+We believe that you have room to improve your financial habits. Your expenditure for item FOOD is 75% higher than the average for your neighbourhood. Read these LINKS to learn how you can improve your life.
+
+
+<ul>
+    <li><a href="http://www.netmums.com/lifestyle/money-and-debt/making-ends-meet/how-to-cut-the-cost-of-your-food-bills">Improving food expenditure</a></li>
+</ul>
+
+Since You have managed to increase your savings from the previous month. Would you like to invest a portion of your savings into stable assets?
+
+Reply (Yes, Value) to submit request for transaction.
+
