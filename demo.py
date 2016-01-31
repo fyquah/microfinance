@@ -2,6 +2,26 @@
 
 import main
 import time
+import requests
+
+CAPITAL_ONE_API_KEY="bla"
+CAPITAL_ONE_URL="https://api.reimaginebanking.com"
+
+def send_money(from_id, to_id, amount):
+    requests.post(CAPITAL_ONE_URL + "/accounts/" +
+            from_id + "/transfers",
+            json={
+                "id": to_id,
+                "body": {
+                      "medium": "balance",
+                      "payee_id": to_id,
+                      "amount": amount,
+                      "transaction_date": "2016-01-31",
+                      "status": "pending",
+                      "description": "This is a pooled payment for CB2"
+                    }
+                })
+
 
 i = 0
 while i < 10000:
